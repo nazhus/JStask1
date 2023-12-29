@@ -1,0 +1,21 @@
+.container{ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+
+
+button {
+        
+        border-radius: 30px;
+        padding: 16px 32px;
+        margin : auto;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+}
